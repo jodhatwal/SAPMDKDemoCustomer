@@ -1,0 +1,2 @@
+Pass:
+Generated bundle file /home/user/projects/MDK_ErrorArchive/.build/MDK_ErrorArchive/.build/uploadBundle.zip

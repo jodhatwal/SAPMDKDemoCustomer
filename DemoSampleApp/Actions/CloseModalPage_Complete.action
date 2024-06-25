@@ -1,0 +1,6 @@
+{
+	"_Type": "Action.Type.ClosePage",
+	"DismissModal": "Action.Type.ClosePage.Completed",
+	"CancelPendingActions": false,
+	"NavigateBackToPage": "Customers_List"
+}

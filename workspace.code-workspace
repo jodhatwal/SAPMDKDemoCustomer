@@ -1,0 +1,18 @@
+{
+    "folders": [
+        {
+            "path": "DemoSampleApp"
+        }
+    ],
+    "settings": {
+        "mdk.uieditor": {
+            "left": {
+                "visible": true,
+                "width": 223
+            },
+            "right": {
+                "visible": true
+            }
+        }
+    }
+}

@@ -1,0 +1,5 @@
+{
+	"local": false,
+	"centralRouter": false,
+	"startUrl": "https://6ed2ba48trial-dev-nsdemosampleapp-approuter.cfapps.us10-001.hana.ondemand.com/nsDemoSampleApp"
+}

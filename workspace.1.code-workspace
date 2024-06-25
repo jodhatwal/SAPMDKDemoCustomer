@@ -1,0 +1,18 @@
+{
+    "folders": [
+        {
+            "path": "MDK_ErrorArchive"
+        }
+    ],
+    "settings": {
+        "mdk.uieditor": {
+            "left": {
+                "visible": true,
+                "width": 254
+            },
+            "right": {
+                "visible": true
+            }
+        }
+    }
+}
